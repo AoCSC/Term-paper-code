@@ -9,5 +9,5 @@ The data resource is from https://www.kaggle.com/datasets/mlg-ulb/creditcardfrau
 3. Most of the transactions were Non-Fraud (99.83%) of the time, while Fraud transactions occurred (0.17%) of the time in the dataframe.
 4. Except for the transaction and amount, we don't know what the other columns are (due to privacy reasons). The only thing we know is that those unknown columns have already been scaled.
 
-# Code samples:
+# Sample files:
 These two code samples are jupyter notebook files. You can download and run it simply
